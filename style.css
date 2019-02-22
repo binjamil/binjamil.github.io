@@ -1,0 +1,40 @@
+.section {
+	padding: 1.5rem;
+}
+
+.contactinfo {
+	padding: 0.75rem 0;
+}
+
+.skills-section p {
+	line-height: 2.8;
+}
+
+.skills-section button {
+	margin-right: 4px;
+}
+
+.skills-section {
+	margin-bottom: 1.5rem;
+}
+
+.indent-section {
+	padding-left: 25px;
+	margin-bottom: 1.5rem;
+}
+
+.indent-section div {
+	padding-bottom: 15px;
+}
+
+.indent-section div:last-child {
+	padding-bottom: 0;
+}
+
+.interests-section p {
+	line-height: 2;
+}
+
+.interests-section .labels {
+	padding-left: 0;
+}
